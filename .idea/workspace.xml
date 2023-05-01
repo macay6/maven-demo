@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f408b30-4d49-41bc-9d50-c7bf4c310516" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2BgbZugosQSZIdUmlZ08fe8NiZZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="consumer" />
+      <recent name="producer" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rabbitmq-demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CustomConsumerForTime">
+    <configuration name="CustomConsumerByHandAsync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consumer.CustomConsumerByHandAsync" />
+      <module name="kafka-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomConsumerByHandSync" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consumer.CustomConsumerByHandSync" />
+      <module name="kafka-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomConsumerForTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consumer.CustomConsumerForTime" />
+      <module name="kafka-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomConsumerSeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="consumer.CustomConsumerSeek" />
+      <module name="kafka-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CustomProducerNoPartAndKey" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="producer.CustomProducerNoPartAndKey" />
+      <module name="kafka-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="producer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CustomConsumerForTime" />
+        <item itemvalue="Application.CustomProducerNoPartAndKey" />
+        <item itemvalue="Application.CustomConsumerSeek" />
+        <item itemvalue="Application.CustomConsumerByHandSync" />
+        <item itemvalue="Application.CustomConsumerByHandAsync" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f408b30-4d49-41bc-9d50-c7bf4c310516" name="Default Changelist" comment="" />
+      <created>1657330733694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657330733694</updated>
+      <workItem from="1657330736134" duration="518000" />
+      <workItem from="1657331300937" duration="8175000" />
+      <workItem from="1682918911231" duration="2495000" />
+    </task>
+    <task id="LOCAL-00001" summary="quzrtz-demo">
+      <created>1682919353799</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682919353799</updated>
+    </task>
+    <task id="LOCAL-00002" summary="rabbitmq简单模式">
+      <created>1682920041312</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682920041312</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rabbitmq订阅模式">
+      <created>1682920500323</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682920500323</updated>
+    </task>
+    <task id="LOCAL-00004" summary="rabbitmq路由模式">
+      <created>1682920652878</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682920652878</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rabbitmq工作模式">
+      <created>1682920802079</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682920802079</updated>
+    </task>
+    <task id="LOCAL-00006" summary="rabbitmq路由模式">
+      <created>1682920848132</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682920848132</updated>
+    </task>
+    <task id="LOCAL-00007" summary="删除编译文件">
+      <created>1682921131942</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682921131942</updated>
+    </task>
+    <task id="LOCAL-00008" summary="kafka-demo">
+      <created>1682921404622</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1682921404622</updated>
+    </task>
+    <task id="LOCAL-00009" summary="maven">
+      <created>1682921427562</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1682921427562</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="quzrtz-demo" />
+    <MESSAGE value="rabbitmq简单模式" />
+    <MESSAGE value="rabbitmq订阅模式" />
+    <MESSAGE value="rabbitmq工作模式" />
+    <MESSAGE value="rabbitmq路由模式" />
+    <MESSAGE value="删除编译文件" />
+    <MESSAGE value="kafka-demo" />
+    <MESSAGE value="maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="maven" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="384" y="141" key="#Project_Structure" timestamp="1682921363012">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="384" y="141" key="#Project_Structure/0.0.1792.1120@0.0.1792.1120" timestamp="1682921363012" />
+    <state x="238" y="145" width="875" height="815" key="CommitChangelistDialog2" timestamp="1682921427417">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="238" y="145" width="875" height="815" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1682921427417" />
+    <state width="1750" height="438" key="GridCell.Tab.0.bottom" timestamp="1682920043740">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="438" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1682920043740" />
+    <state width="1750" height="438" key="GridCell.Tab.0.center" timestamp="1682920043739">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="438" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1682920043739" />
+    <state width="1750" height="438" key="GridCell.Tab.0.left" timestamp="1682920043738">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="438" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1682920043738" />
+    <state width="1750" height="438" key="GridCell.Tab.0.right" timestamp="1682920043740">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="438" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1682920043740" />
+    <state x="264" y="223" key="new project wizard" timestamp="1682919171486">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="264" y="223" key="new project wizard/0.0.1792.1120@0.0.1792.1120" timestamp="1682919171486" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/kafka-demo/src/main/java/consumer/CustomConsumerForTime.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

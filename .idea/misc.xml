@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -18,6 +21,19 @@
         <option value="$PROJECT_DIR$/rabbitmq-routing-demo/producer/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitmq-routing-demo/consumer1/pom.xml" />
         <option value="$PROJECT_DIR$/rabbitmq-routing-demo/consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/kafka-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-basic-demo/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-basic-demo/consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-basic-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-pub-sub-demo/consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-pub-sub-demo/consumer1/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-pub-sub-demo/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-routing-demo/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-routing-demo/consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-routing-demo/consumer1/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-work-demo/producer/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-work-demo/consumer2/pom.xml" />
+        <option value="$PROJECT_DIR$/rabbitmq-demo/rabbitmq-work-demo/consumer1/pom.xml" />
       </list>
     </option>
   </component>
