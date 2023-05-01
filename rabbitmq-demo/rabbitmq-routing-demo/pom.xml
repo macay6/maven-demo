@@ -11,5 +11,9 @@
 
     <artifactId>rabbitmq-routing-demo</artifactId>
 
-
+    <modules>
+        <module>producer</module>
+        <module>consumer1</module>
+        <module>consumer2</module>
+    </modules>
 </project>
