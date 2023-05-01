@@ -9,8 +9,9 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>rabbitmq-basic-demo</module>
-        <module>rabbitmq-work-demo</module>
+        <module>kafka-demo</module>
+        <module>rabbitmq-demo</module>
+        <module>quartz-demo</module>
     </modules>
 
 
