@@ -15,13 +15,19 @@ public class QuartzTest {
             // 获取默认的调度器实例
             Scheduler scheduler = StdSchedulerFactory.getDefaultScheduler();
 
-            // 打开调度器
-            scheduler.start();
-
             // 定义一个简单的任务
-            JobDetail job = JobBuilder.newJob(MyJobDetail.class)
+            JobDetail job = JobBuilder.newJob(MyJob.class)
                     .withIdentity("job1", "group1")
                     .build();
+
+            //获取相应的信息
+
+            System.out.println("jobDetail名称:"+job.getKey().getName());
+            //组名如果不写的话，默认是 DEFAULT
+            System.out.println("jobDetail组名:"+job.getKey().getGroup());
+            //获取运行的类
+            System.out.println("job类名:"+job.getJobClass().getName());
+
 
             // 定义一个简单的触发器: 每隔 3 秒执行 1 次，任务永不停止
             SimpleTrigger trigger = TriggerBuilder.newTrigger()
@@ -33,8 +39,14 @@ public class QuartzTest {
                             .repeatForever()
                     ).build();
 
-            // 开始调度任务
+            System.out.println("trigger名称:"+trigger.getKey().getName());
+            System.out.println("trigger组名:"+trigger.getKey().getGroup());
+
+            // 关联 job和 trigger
             scheduler.scheduleJob(job, trigger);
+
+            // 启动 scheduler
+            scheduler.start();
 
             // 等待任务执行一些时间
             Thread.sleep(10000);

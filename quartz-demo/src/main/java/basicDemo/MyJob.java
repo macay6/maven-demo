@@ -12,8 +12,13 @@ import java.util.Date;
  * @Author: Macay
  * @Date: 2023/5/1 2:23 下午
  */
-public class MyJobDetail implements Job {
+public class MyJob implements Job {
+
+    public MyJob() {
+        System.out.println("构建Job");
+    }
+
     public void execute(JobExecutionContext jobExecutionContext) throws JobExecutionException {
-        System.out.println("hello quartz  " + new Date());
+        System.out.println("hello quartz  " + new Date() + " job对象：" + this.toString());
     }
 }
